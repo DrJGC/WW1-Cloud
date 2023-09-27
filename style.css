@@ -6,7 +6,7 @@ body, html {
 }
 
 body {
-  background-color: rgb(189, 186, 181);
+  background-color: rgb(250, 244, 235);
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
 }
@@ -14,6 +14,10 @@ body {
 .container {
   margin: 1em;
   padding: 2em;
+}
+
+figure {
+  background-color: rgb(189, 186, 181);
 }
 
 #WW1-Cloud {

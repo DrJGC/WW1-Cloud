@@ -22,7 +22,8 @@ body {
   height: 25em;
   width: auto;
   border: 1px solid rgb(64, 63, 62);
-  box-shadow: 10px 5px 5px rgba(54, 53, 51, 0.2);
+  border-radius: 0.4em;
+  box-shadow: 10px 5px 5px rgba(54, 53, 51, 0.3);
 }
 
 #cloud-caption {
